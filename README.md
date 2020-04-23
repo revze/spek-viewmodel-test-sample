@@ -1,0 +1,1 @@
+# spek-viewmodel-test-sample
